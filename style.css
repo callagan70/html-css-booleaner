@@ -17,11 +17,10 @@
     padding: 100px;
     background-repeat: no-repeat;
     background-position: 0 0;
-    background-size: 400px;
-    background-size: auto;
+    background-size: 250px 200px;
+
     color: lightyellow;
     text-align: top;
-    text-align: justify;
 }
 
 .grafico{
