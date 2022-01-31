@@ -1,0 +1,14 @@
+.header{
+    background-image: url("./img/pattern.png");
+    background-color: lightskyblue;
+    background-size: auto;
+}
+.logo{
+    max-width:200px;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: 900;
+
+}
