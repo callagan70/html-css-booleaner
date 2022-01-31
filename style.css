@@ -1,34 +1,42 @@
 .header{
     background-image: url("./img/pattern.png");
     background-color: lightskyblue;
-    background-size: auto;
-}
+    background-size: 28%;}
 .logo{
-    max-width:200px;
-}
+    max-width:200px;}
 
 .title{
-    font-size: 32px;
+    font-size: 50px;
     font-weight: 900;
 }
 
+.colorb{
+    color: lightseagreen;
+}
+
+.didascalia2{
+    font-size: 15px;
+}
+
+
 .monitor{
     background-image: url("./img/monitor.jpg");
-    padding: 100px;
+    width: 400px;
+    height: 400px;
     background-repeat: no-repeat;
     background-position: 0 0;
-    background-size: 250px 200px;
-
+    background-size: 50%;
     color: lightyellow;
     text-align: top;
 }
 
 .grafico{
     background-image: url("./img/graph.jpg");
-    padding: 100px;
+    width: 400px;
+    height: 400px;
     background-repeat: no-repeat;
     background-position: 0 0;
-    background-size: 400px;
-    background-size: auto;
+    background-size: 250px 200px;
     color: lightyellow;
+    text-align: top;
 }
